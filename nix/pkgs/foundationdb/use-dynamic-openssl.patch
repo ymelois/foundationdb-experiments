@@ -1,0 +1,5 @@
+--- a/cmake/FDBComponents.cmake
++++ b/cmake/FDBComponents.cmake
+@@ -33 +33 @@
+-set(OPENSSL_USE_STATIC_LIBS TRUE)
++set(OPENSSL_USE_STATIC_LIBS FALSE)

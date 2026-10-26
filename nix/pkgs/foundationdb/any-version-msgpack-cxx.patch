@@ -1,0 +1,5 @@
+--- a/cmake/GetMsgpack.cmake
++++ b/cmake/GetMsgpack.cmake
+@@ -3 +3 @@
+-find_package(msgpack-cxx 6 QUIET CONFIG)
++find_package(msgpack-cxx QUIET CONFIG)

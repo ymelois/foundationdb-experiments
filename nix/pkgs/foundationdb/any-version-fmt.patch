@@ -1,0 +1,5 @@
+--- a/cmake/GetFmt.cmake
++++ b/cmake/GetFmt.cmake
+@@ -1 +1 @@
+-find_package(fmt 11.1.4 EXACT CONFIG)
++find_package(fmt CONFIG)

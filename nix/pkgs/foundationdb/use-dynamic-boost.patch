@@ -1,0 +1,5 @@
+--- a/cmake/CompileBoost.cmake
++++ b/cmake/CompileBoost.cmake
+@@ -156 +156 @@
+-set(Boost_USE_STATIC_LIBS ON)
++set(Boost_USE_STATIC_LIBS OFF)
